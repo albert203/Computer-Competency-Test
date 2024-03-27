@@ -1,0 +1,6 @@
+Logic behind the alternative solution.
+
+I copied the test html data and ran an apache server locally using Xampp control panel. This solution is if you want to test it within your own environment, note this was used only for testing and NOT Submission.
+
+I used a javascript XHR request to send the plain text within the first box (textarea) and send it to be proccessed within the process.php file (to modify the original text to remove the + signs with whitespace). 
+The response would then be sent back and the second box's (textarea number two) plain text would be equal to the modified text.

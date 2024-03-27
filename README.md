@@ -1,2 +1,3 @@
 # Computer-Competency-Test
-Repo to test and complete the test. Also contains notes and logic.
+
+## Albert's Notes & Code Used to complete the computer competency test at software developer speed
